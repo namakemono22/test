@@ -1,1 +1,3 @@
-document.querySelector(".div").style.color = "white";
+ setTimeout(() => {
+    document.querySelector(".div").style.color = "white";
+  }, 1500);
