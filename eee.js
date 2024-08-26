@@ -1,3 +1,3 @@
  setTimeout(() => {
-    document.querySelector(".div").style.color = "white";
+    document.querySelector(".div").style.color = "blue";
   }, 1500);
